@@ -1,0 +1,14 @@
+{
+  "featured": [
+    { "id": 1, "name": "Jersey Graphic Tee" },
+    { "id": 2, "name": "Long Fit T-shirt" }
+  ],
+  "trending": [
+    { "id": 3, "name": "Long strappy dress" },
+    { "id": 4, "name": "Round neck sweater" }
+  ],
+  "bestSelling": [
+    { "id": 5, "name": "Best Selling Product 1" },
+    { "id": 6, "name": "Best Selling Product 2" }
+  ]
+}
